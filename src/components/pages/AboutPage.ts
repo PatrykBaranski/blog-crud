@@ -1,4 +1,4 @@
-function AboutPage() {
+function AboutPage(): JSX.Element {
   return (
     <div>
       <h2>About</h2>

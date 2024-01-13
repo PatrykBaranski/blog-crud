@@ -9,7 +9,7 @@ import Header from "./components/views/Header";
 import Footer from "./components/views/Footer";
 import { Container } from "react-bootstrap";
 
-function App() {
+function App(): JSX.Element {
   return (
     <Container>
       <Header />
